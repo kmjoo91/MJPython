@@ -43,5 +43,5 @@ print('test %-10s'%Teststr)
 #문자열 함수
 upper = input("대문자").upper()
 lower = input("소문자").lower()
-print("대문자"+upper)
-print("소문자"+lower)
+print("대문자 : "+upper)
+print("소문자 : "+lower)
