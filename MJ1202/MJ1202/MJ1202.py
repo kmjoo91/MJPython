@@ -98,6 +98,7 @@ plt.plot(x, y, 'r.')
 plt.plot(t, p(t), 'k-', lw=3)
 plt.show()
 '''
+#이미지 출력
 img = plt.imread('korea.png')
 print(img.shape)
 print(img.dtype)
